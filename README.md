@@ -45,8 +45,9 @@ if ($conn->connect_error) {
     die("Bağlantı başarısız: " . $conn->connect_error);
 }
 ?>
-
-
+```
+### Proje Youtube Tanıtım Videosu
+https://www.youtube.com/watch?v=o_EHh5W7mF4
 
 
 
